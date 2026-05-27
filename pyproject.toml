@@ -9,7 +9,7 @@ description = "Test suite for LLM prompts. Catch regressions before they hit pro
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Bhupendra Gurjar", email = "bgurjar05.bg@gmail.com" }]
+authors = [{ name = "Bhupendra Tale", email = "bgurjar05.bg@gmail.com" }]
 keywords = ["developer-tools", "debugging", "python", "performance", "promptci"]
 classifiers = [
     "Development Status :: 4 - Beta",
